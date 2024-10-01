@@ -35,9 +35,9 @@ The entire project from collecting and validating the data, exploratory data ana
 
 ![Pace](https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/a392c404-8909-4167-ba55-da276f42a830)
 
-# (P)ACE - PLAN - UNDERSTANDING THE DATA IN THE PROBLEM CONTEXT
+ PLAN - UNDERSTANDING THE DATA IN THE PROBLEM CONTEXT
 
-## About the Company:
+About the Company:
 Salifort Motors is a fictional French-based alternative energy vehicle manufacturer. Its global workforce of over 100,000 employees research, design, construct, validate, and distribute electric, solar, algae, and hydrogen-based vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles.    
 ## Key Stakeholders:
 * Salifort’s Senior Leadership team
@@ -80,10 +80,9 @@ The data contains information that may help us find the answer to the key questi
 ### Citation:
 There is no external citation for this dataset. You can visit [kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) for basic informations.
 
-### Current:
-The dataset is created 2 years ago. Clearly it is outdated.
 
-# P(A)CE - ANALYSIS -  EDA, CHECKING MODEL ASSUMPTIONS & SELECT MODEL
+
+ANALYSIS -  EDA, CHECKING MODEL ASSUMPTIONS & SELECT MODEL
 
 ## Data Cleaning:
 
@@ -202,7 +201,7 @@ We'll build 4 models -
 
 We'll choose the one with highest evaluation scores and implement it to predict whether an employee will leave or not.
 
-# PA(C)E - CONSTRUCT AND EVALUATE MODEL
+ - CONSTRUCT AND EVALUATE MODEL
 
 ## Steps taken to build the models: 
 1. Import packages, functions, and classes
